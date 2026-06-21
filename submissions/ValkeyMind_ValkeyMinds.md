@@ -18,7 +18,7 @@ Copy the template below into your new file and fill in the details.
 
 # Project Name
 
-ValkeyMind_
+ValkeyMind
 
 ---
 
@@ -35,21 +35,7 @@ Add all the names of all the team members if you are participating in teams.
 
 ## Problem Statement Selected
 
-Mention the title of the problem statement you selected.
-
-Choose one:
-
-```txt
-Problem statement 1
-```
-
-or
-
-```txt
-Problem statement 2
-```
-
----
+#70 Build a utility that translates SQL queries to equivalent Valkey commands, enabling developers familiar with SQL to interact with Valkey data structures intuitively.
 
 ## Project Description
 
